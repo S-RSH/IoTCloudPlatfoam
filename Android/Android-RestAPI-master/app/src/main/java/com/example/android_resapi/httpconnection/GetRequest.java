@@ -18,11 +18,11 @@ abstract public class GetRequest extends AsyncTask<String, Void, String> {
 
     public GetRequest(Activity activity) {
         this.activity = activity;
-    }
+    } // 액티비티를 호출받을 때 전달받은 액티비티 전달
 
 
     @Override
-    protected String doInBackground(String... strings) {
+    protected String doInBackground(String... strings) { // http 연결을 통해 REST API 받아오기(GET 메소드)
         StringBuffer output = new StringBuffer();
 
         try {
