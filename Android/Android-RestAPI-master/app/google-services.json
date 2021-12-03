@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791874519550",
+    "project_id": "doorbellmessaging",
+    "storage_bucket": "doorbellmessaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791874519550:android:0e434628dc5a1bd7c100af",
+        "android_client_info": {
+          "package_name": "com.example.android_resapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791874519550-0mt6q313000su4unibthq91qd4e4o8qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBulI2c4LbGq1PZXOr3I5DNaXrn8vhdqh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791874519550-0mt6q313000su4unibthq91qd4e4o8qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
